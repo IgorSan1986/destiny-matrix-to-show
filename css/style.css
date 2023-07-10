@@ -210,7 +210,7 @@ body {
 	body {
 		background-image: url('../img/background-gradient>2560.svg');
 		background-position: center center;
-		background-size: contain;
+		background-size: cover;
 	}
 }
 html .container,
