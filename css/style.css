@@ -209,7 +209,7 @@ body {
 	html,
 	body {
 		background-color: rgba(255, 255, 255, 1);
-		background-image: url('../img/background-gradient>1280.svg');
+		background-image: url('../img/background-gradient1280.svg');
 		background-position: center;
 		background-size: cover;
 	}
@@ -218,7 +218,7 @@ body {
 @media (min-width: 1921px) {
 	html,
 	body {
-		background-image: url('../img/background-gradient>2560.svg');
+		background-image: url('../img/background-gradient2560.svg');
 		background-position: center center;
 		background-size: cover;
 	}
