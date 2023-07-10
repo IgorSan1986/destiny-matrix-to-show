@@ -204,6 +204,7 @@ body {
 body.home {
 	background-image: url('../img/background-gradient.svg');
 }
+
 @media (min-width: 1281px) {
 	body.home {
 		background-image: url('../img/background-gradient1280.svg');
