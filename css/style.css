@@ -208,7 +208,7 @@ body {
 @media (min-width: 1281px) {
 	html,
 	body {
-		background-image: url('../img/background-gradient>1280.svg');
+		background-image: url('../img/background-gradient>2560.svg');
 		background-position: center center;
 		background-size: contain;
 	}
